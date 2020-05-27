@@ -20,5 +20,8 @@
     "morgan": "~1.9.1",
     "mysql": "^2.18.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines" : {
+    "node": "12.x"
+  }
 }
